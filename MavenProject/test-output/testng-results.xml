@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-05T21:47:30 IST" name="Default suite" finished-at="2021-12-05T21:48:23 IST" duration-ms="52631">
+    <groups>
+    </groups>
+    <test started-at="2021-12-05T21:47:30 IST" name="Default test" finished-at="2021-12-05T21:48:23 IST" duration-ms="52631">
+      <class name="project.Irctc_Flight">
+        <test-method signature="runIrctc()[pri:0, instance:project.Irctc_Flight@d29f28]" started-at="2021-12-05T21:47:30 IST" name="runIrctc" finished-at="2021-12-05T21:48:23 IST" duration-ms="52571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runIrctc -->
+      </class> <!-- project.Irctc_Flight -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
